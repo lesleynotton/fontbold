@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'NOIRetBLANCMediumBold';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://cdn.jsdelivr.net/gh/lesleynotton/font/NOIRetBLANCMediumBold.woff) format('opentype');
+}
+
+h1,h2,h3,h4,h5.h6 * {
+  font-family: 'NOIRetBLANCMediumBold', sans-serif !important;
+
+}
